@@ -15,7 +15,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "* {background-color: #008080; }"
+          "* {background-color: #008080;}"
         ],
         "settings": {
           "align_logo": "left",
@@ -177,6 +177,9 @@
           "quotes-0",
           "quotes-1",
           "quotes-2"
+        ],
+        "custom_css": [
+          "* {background-color: #3cd371; border-radius: 10px;}"
         ],
         "settings": {
           "title": ""
