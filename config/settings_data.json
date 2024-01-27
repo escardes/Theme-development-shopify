@@ -15,7 +15,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "* {background-color: #008080;}"
+          "* {background-color: #008080; list-style:none;}"
         ],
         "settings": {
           "align_logo": "left",
@@ -27,7 +27,7 @@
           "message_text": "20% off only new customers",
           "message_link": "",
           "color_bg": "#1d1919",
-          "color_text": "#f2e8e8"
+          "color_text": "#ffffff"
         }
       },
       "hero-1": {
