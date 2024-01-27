@@ -15,7 +15,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "* {background-color: #008080; list-style:none;}"
+          "* {background-color: #008080; list-style: none;}"
         ],
         "settings": {
           "align_logo": "left",
@@ -220,6 +220,9 @@
           "image-bar-0",
           "image-bar-1",
           "image-bar-2"
+        ],
+        "custom_css": [
+          "* {border-radius:10px; }"
         ],
         "settings": {
           "section_height": "large"
