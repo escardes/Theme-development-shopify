@@ -262,8 +262,8 @@
         "settings": {
           "title": "eurekateck collection design sample stores",
           "collection": "sunglasses",
-          "grid": 4,
-          "rows": 2,
+          "grid": 5,
+          "rows": 5,
           "show_vendor": false,
           "show_view_all": false
         }
